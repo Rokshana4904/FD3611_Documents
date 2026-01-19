@@ -1,4 +1,4 @@
-# FD3611 Ethics and Approval Documents
+# FD3611
 
 This folder contains the official **ethical approval and institutional permission documents** supporting the **FD3611: A Multi-Class Color Fundus Image Dataset for Retinal Disease Classification**.
 
