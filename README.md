@@ -1,12 +1,22 @@
 # FD3611
 
-This folder contains the official **ethical approval and institutional permission documents** supporting the **FD3611: A Multi-Class Colour Fundus Image Dataset for Retinal Disease Classification**.
+This folder contains the official **ethical approval and institutional permission documents** supporting the dataset:
+
+**FD3611: A Multi-Class Colour Fundus Image Dataset for Retinal Disease Classification**
+
+---
+
+## Dataset Access
+
+The full FD3611 dataset is publicly available on Figshare:
+
+🔗 https://doi.org/10.6084/m9.figshare.32086296.v1
 
 ---
 
 ## Dataset Brief Description
 
-FD3611 is a clinically validated colour fundus image dataset designed for automated retinal disease classification and screening research. The dataset consists of **3,611 identified fundus images from 2,270 patients**, collected under routine diagnostic conditions at the **National Institute of Ophthalmology and Hospital, Dhaka, Bangladesh**.
+FD3611 is a clinically validated colour fundus image dataset designed for automated retinal disease classification and screening research. The dataset consists of **3,611 fundus images from 2,270 patients**, collected under routine diagnostic conditions at the **National Institute of Ophthalmology and Hospital, Dhaka, Bangladesh**.
 
 The images are categorised into five diagnostic classes: **Diabetic Retinopathy, Media Hazy, Myopic Retinopathy, Optic Disc Disorder, and Normal**. All images were manually reviewed and validated by expert ophthalmologists, and natural variations in image quality were preserved to reflect real-world clinical conditions.
 
@@ -25,11 +35,11 @@ The images are categorised into five diagnostic classes: **Diabetic Retinopathy,
 
 ## Ethics Compliance
 
-All data collection and secondary use were conducted in accordance with institutional ethical standards and international data protection guidelines. All patient data were fully anonymised before public release.
+All data collection and secondary use were conducted in accordance with institutional ethical standards and international data protection guidelines. All patient data were fully anonymised prior to public release.
 
 ---
 
 ## License
 
-These documents and the associated dataset are provided for **research and educational use only**.  
+This dataset and accompanying documents are provided for **research and educational purposes only**.  
 Commercial use requires prior written permission from the data providers.
